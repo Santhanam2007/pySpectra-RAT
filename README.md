@@ -1,7 +1,7 @@
 # pySpectra-RAT
 ***This Tool is made for Educational Purposes only***
 
-***Get Telegram Bot API Key and paste it***
+***Get Telegram Bot API Key and paste it in the code***
 
 # COMMAND TO USE 
 /screen to capture screenshot.🖵
