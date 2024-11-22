@@ -12,7 +12,7 @@
 
 /cd to navigate in folders.🗂️
 
-/ls for list élements.🗂️
+/ls for list elements.🗂️
 
 /upload [path] to get file.📤
 
