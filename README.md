@@ -16,7 +16,7 @@
 
 /upload [path] to get file.📤
 
-/crypt [path] for crypt folders files. 🔒
+/encrypt [path] for crypt folders files. 🔒
 
 /decrypt [path] for decrypt files.🔓
 
